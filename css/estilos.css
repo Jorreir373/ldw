@@ -1,0 +1,27 @@
+footer{color: crimson;}
+.parrafo{
+    display: flex;
+    justify-content: center;
+}
+.hola{
+    display: flex;
+    justify-content: center;
+}
+.contenedor{
+background-color:lavenderblush
+display: flex
+justify-content: center;
+padding-left: 30px;
+}
+#amarillo{
+    color: yellow;
+}
+.gaseosa{
+    background-color: rgb(255, 0, 0);
+}
+body{
+    background-color: aquamarine;
+}
+.hola{
+    color: blueviolet;
+}
